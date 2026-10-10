@@ -5,3 +5,6 @@ __pycache__/
 .env
 .idea/
 .vscode/
+# evaluation dataset is downloaded on demand
+data/eval/
+.pytest_cache/

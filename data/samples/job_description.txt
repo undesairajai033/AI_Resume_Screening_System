@@ -1,0 +1,17 @@
+Junior Machine Learning Engineer
+
+We are hiring a Junior Machine Learning Engineer to build and ship NLP features in our hiring platform.
+
+Responsibilities
+- Build and evaluate machine learning models for text classification and semantic search
+- Develop REST APIs in Python (FastAPI or Flask) that serve model predictions
+- Clean and analyse data with Pandas and NumPy; write SQL queries against PostgreSQL
+- Package services with Docker and deploy them to AWS
+- Work with the team in an agile process using Git
+
+Requirements
+- Degree in Computer Science, AI, Data Science or a related field
+- Strong Python; hands-on experience with scikit-learn and either PyTorch or TensorFlow
+- Understanding of NLP techniques such as embeddings and transformers
+- Experience with SQL and Git
+- Nice to have: Docker, AWS, experience with LLM or RAG applications

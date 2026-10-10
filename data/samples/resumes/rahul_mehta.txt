@@ -1,0 +1,18 @@
+Rahul Mehta
+B.E. Information Technology, 2024
+
+Summary
+Data analyst who turns business data into dashboards and insights.
+
+Experience
+Data Analyst, RetailCo (1 year)
+- Built Power BI and Tableau dashboards tracking sales across 40 stores
+- Wrote SQL queries in MySQL to automate weekly reports
+- Cleaned data in Excel and Python (Pandas)
+- Presented findings to stakeholders every month
+
+Projects
+- Customer churn analysis with Python and scikit-learn (logistic regression)
+
+Skills
+SQL, MySQL, Power BI, Tableau, Excel, Python, Pandas, statistics, data visualization, communication

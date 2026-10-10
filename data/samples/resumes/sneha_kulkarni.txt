@@ -1,0 +1,18 @@
+Sneha Kulkarni
+B.Sc Data Science, 2025
+
+Summary
+Aspiring data scientist comfortable with machine learning and deep learning on images and text.
+
+Experience
+Research Assistant, University AI Lab (8 months)
+- Trained convolutional neural networks in TensorFlow and Keras for plant disease detection (computer vision)
+- Experimented with BERT embeddings for sentiment analysis (NLP)
+- Analysed experiment results with Pandas, NumPy and Matplotlib
+
+Projects
+- Movie recommendation system with collaborative filtering
+- Sentiment analysis of product reviews with transformers
+
+Skills
+Python, TensorFlow, Keras, deep learning, NLP, machine learning, Pandas, NumPy, SQL, Git
